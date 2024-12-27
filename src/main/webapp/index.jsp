@@ -27,7 +27,7 @@
  
   <a href="add_notes.jsp">
     <button class="btn btn-outline-primary text-center">Start here</button>
-    <button class="btn btn-outline-primary text-center">Restart</button>
+    <button class="btn btn-outline-primary text-center">Restart here</button>
 </a>
   </div>
   
